@@ -1,0 +1,22 @@
+h1{
+color:rgb(38, 255, 0);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight:bolder;
+text-align: center;
+margin-top: 32px;
+
+
+
+}
+body{
+background-color: darkslateblue;
+
+
+
+}
+span{
+
+color: azure;
+font-size: 34;
+
+}

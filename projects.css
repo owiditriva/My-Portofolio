@@ -1,0 +1,31 @@
+.header{
+    font-size: 40px;
+    font-weight: 300;
+    color:black;
+    align-items: center;
+    margin-bottom: 18px;
+    justify-content: center;
+}
+.project-grid{
+    gap: 200px;
+    max-width: 2000px;
+    max-width: fit-content;
+    align-items: center;
+}
+.para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color:whitesmoke;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    font-size: large;
+
+}
+.projects_section{
+    padding: 20px 60px;
+    margin:0px;
+    text-align: center;
+    justify-items: center;
+    box-shadow: 10px greenyellow;
+     background:linear-gradient(135deg , #55cc69, #1b8e10);
+}

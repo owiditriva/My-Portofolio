@@ -1,0 +1,71 @@
+.contact_section{
+    max-width: 650px;
+    margin: 70px auto;
+    background: green;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(134, 169, 137, 0.1);
+
+}
+body{
+    background-image:url(elon.contact.jpg);
+    background-position: center;
+    background-position: 100px;
+
+}
+.contact_section h1{
+    color: gold;
+    margin-bottom: 15px;
+
+}
+.contact_section p{
+    color: rgb(87, 251, 251);
+    margin-bottom: 20px;
+
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.form-group label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color:aqua;
+    box-shadow: green;
+    color: coral;
+
+}
+.form-group input,
+.form-group textarea
+{
+    width: 100%;
+    padding: 12px 15px;
+    border: 10px gold;
+    border-radius: 10px;
+    font-size: 15px;
+    transition: border-color 0.6s;
+
+}
+.form-group input:focus,
+.form-group textarea{
+    border-color: rgb(16, 15, 15);
+    outline: none;
+    margin-bottom: 20px;
+
+}
+.submit-button{
+    background-color: blue;
+    color: aqua;
+    border: none;
+    padding: 15px 100px;
+    font-size: 30px;
+    border-radius: 50px;
+    cursor: grab;
+    width: 100%;
+    font-weight: bold;
+}
+.submit-button:hover{
+    background: yellow;
+    color:black;
+
+}
